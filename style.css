@@ -28,11 +28,11 @@ background: linear-gradient(0deg, rgba(34,193,195,1) 13%, rgba(227,253,45,1) 70%
 }
 textarea{
  background-color:#F6F54D ;
-  width:60%;
+  width:50%;
   border-radius: 0.5rem;
   font-size: 1.1rem;
   border: 1px solid #3B0000;
-  padding: 1.5rem;
+  padding: 1rem;
 }
 button{
   padding: 10px;
